@@ -3,4 +3,4 @@
 Curso Basico com 93hrs de estudo
 
 ### Links úteis
-[Markdown](https://www.markdownguide.org/basic-syntax/)
+[Markdown auxilio na sintax](https://www.markdownguide.org/basic-syntax/)
